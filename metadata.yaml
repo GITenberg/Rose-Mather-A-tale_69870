@@ -1,0 +1,32 @@
+_repo: Rose-Mather-A-tale_69870
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Mary Jane
+    alias: Holmes, Mary Jane (Hawes)
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '1239'
+    url: http://www.gutenberg.org/2009/agents/1239
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
+description: ''
+gutenberg_issued: '2023-01-24'
+identifiers:
+  gutenberg: '69870'
+language: en
+pgterms:marc904: https://archive.org/details/rosemathertale00holmiala
+pgterms:marc905: 20201230095536holmes
+pgterms:marc906: '1868'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Carleton,1868,pubdate 1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Rose Mather: A tale'
+url: http://www.gutenberg.org/ebooks/69870
