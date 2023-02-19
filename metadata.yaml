@@ -1,5 +1,8 @@
 _repo: Rose-Mather-A-tale_69870
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69870-h/images/cover.jpg
 creator:
   author:
     agent_name: Holmes, Mary Jane
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1239
     wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69870#Rose-Mather-A-tale
 gutenberg_issued: '2023-01-24'
 identifiers:
   gutenberg: '69870'
